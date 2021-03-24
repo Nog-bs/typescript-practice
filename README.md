@@ -5,3 +5,5 @@ Summary: checkout the branches to see the small applications I have built on thi
 ## main -> clean react application
 
 ## todo -> Todo list application / practicing vim configs
+
+## counter -> counter application
